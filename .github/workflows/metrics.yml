@@ -1,20 +1,14 @@
 name: Metrics
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
+on: [workflow_dispatch]
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: afiqnazir
-          base: header,activity,community,repositories,metadata
+          filename: github-metrics.svg
           plugin_languages: yes
-          plugin_isocalendar: yes
-          plugin_achievements: yes
           plugin_habits: yes
-          plugin_lines: yes
+          plugin_isocalendar: yes
