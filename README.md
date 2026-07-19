@@ -1,48 +1,143 @@
-# 👋 Welcome to my GitHub Profile!
+<h1 align="center">Afiq Nazir</h1>
+<h3 align="center">Building AI • Backend • APIs • Automation</h3>
 
-## About Me
-Hi there! I'm @afiqnazir, a passionate developer focused on Python and web development. I love building useful tools and exploring new technologies that can make a difference.
+<p align="center">
+  <a href="https://github.com/afiqnazir">
+    <img src="https://komarev.com/ghpvc/?username=afiqnazir&label=Profile+Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-## 🔭 Current Focus
-- Mastering Python programming
-- Diving deep into Web Development
-- Creating and maintaining Telegram Bots
-- Building practical solutions for real-world problems
+---
 
-## 💻 Tech Stack
-```python
-my_tech_stack = {
-    'Programming Languages': ['Python'],
-    'Web Development': ['HTML', 'CSS', 'JavaScript'],
-    'Interests': ['Bot Development', 'Automation', 'Web Applications'],
-    'Currently Learning': ['Python Advanced Concepts', 'Web Development Frameworks']
+## About
+
+```ts
+const afiq = {
+    location: "Jammu & Kashmir, India",
+    role: "Full Stack Developer",
+    focus: [
+        "Artificial Intelligence",
+        "Backend Systems",
+        "API Development",
+        "Automation",
+        "Cloud Infrastructure"
+    ],
+
+    currentlyBuilding: [
+        "AI Applications",
+        "OSINT Platforms",
+        "WhatsApp Automation",
+        "Developer Tools"
+    ],
+
+    learning: [
+        "LLMs",
+        "Distributed Systems",
+        "Cloud Architecture"
+    ]
 }
 ```
 
-## 🌱 Learning Journey
-I'm on an exciting journey of continuous learning and improvement. Currently focusing on:
-- Advanced Python concepts and best practices
-- Modern web development technologies
-- Bot development and automation
-- Building scalable applications
+---
 
-## 💞️ Collaboration
-I'm always excited to collaborate on interesting projects, especially:
-- Telegram Bot development
-- Python-based applications
-- Open source projects
-- Innovative web solutions
+## Tech Stack
 
-## 📫 Let's Connect!
-Feel free to reach out to me for collaboration, questions, or just a friendly chat!
+### Languages
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/mrxisback)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" />
+</p>
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afiqnazir&show_icons=true&theme=radical)
+### Backend
 
-## ⚡ Fun Fact
-Did you know? The first-ever computer bug was an actual bug! In 1947, Grace Hopper found a moth causing issues in the Harvard Mark II computer. This is where the term "debugging" originated!
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,netlify,cloudflare" />
+</p>
 
 ---
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=afiqnazir&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqnazir&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=afiqnazir&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afiqnazir&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Current Interests
+
+- Artificial Intelligence
+- Generative AI
+- LLM Applications
+- Backend Engineering
+- System Design
+- Automation
+- API Development
+- Cyber Security
+- Cloud Infrastructure
+
+---
+
+## Connect
+
+<p>
+<a href="https://github.com/afiqnazir">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/afiqnazir">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
