@@ -1,32 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Afiq+Nazir;Full+Stack+Developer;AI+Engineer;Backend+Developer;Building+AI+Applications" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,100:6A00FF&text=Afiq%20Nazir&fontSize=56&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=180&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Backend+Architect;Automation+Builder;Open+Source+Enthusiast"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=afiqnazir&style=for-the-badge&color=00e5ff"/>
+<img src="https://img.shields.io/github/followers/afiqnazir?style=for-the-badge&color=00e5ff"/>
+</p>
 
 </div>
 
-# 👨‍💻 About Me
+# 💻 Terminal
 
-```ts
-const afiq = {
-  location: "Jammu & Kashmir, India",
-  role: "Full Stack Developer",
-  interests: ["AI","Backend","Automation","Cloud","APIs"],
-  currentlyBuilding: ["AI Apps","Developer Tools","Automation Platforms"]
-}
+```bash
+$ whoami
+Afiq Nazir
+
+$ role
+AI Engineer • Full Stack Developer
+
+$ stack
+TypeScript • Node.js • Python • React • PostgreSQL • Docker
+
+$ focus
+Building scalable AI products, APIs and automation.
 ```
 
-## 🚀 Tech Stack
+## ⚙️ Tech
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,docker,postgres,mongodb,mysql,linux,git,github,cloudflare,vercel,tailwind"/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,python,docker,postgres,mongodb,mysql,linux,git,github,cloudflare,vercel,tailwind"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=afiqnazir&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=afiqnazir&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqnazir&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -44,10 +54,18 @@ const afiq = {
 
 ## 🐍 Contribution Snake
 
-> After enabling the workflow below, this image will become animated.
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/afiqnazir/afiqnazir/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+## 📈 Metrics
+
+<p align="center">
+<img src="./github-metrics.svg"/>
+</p>
+
+## ☕ Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:6A00FF,100:00F5FF"/>
