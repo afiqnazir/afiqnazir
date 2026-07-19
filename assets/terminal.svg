@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260">
+<rect width="100%" height="100%" rx="12" fill="#111"/>
+<text x="30" y="50" fill="#00ff88" font-size="22" font-family="monospace">$ boot nexus</text>
+<text x="30" y="95" fill="white" font-size="18" font-family="monospace">Loading AI Models .......... OK</text>
+<text x="30" y="130" fill="white" font-size="18" font-family="monospace">Loading APIs ............... OK</text>
+<text x="30" y="165" fill="white" font-size="18" font-family="monospace">Connecting Cloud ........... OK</text>
+<text x="30" y="210" fill="#00F5FF" font-size="20" font-family="monospace">SYSTEM STATUS : ONLINE</text>
+</svg>

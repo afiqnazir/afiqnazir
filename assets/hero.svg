@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+<rect width="100%" height="100%" fill="#09090b"/>
+<text x="60" y="110" fill="#00F5FF" font-size="52" font-family="monospace">NEXUS // AFIQ</text>
+<text x="60" y="160" fill="#ffffff" font-size="24" font-family="monospace">AI • Backend • Automation • APIs</text>
+<circle cx="1080" cy="80" r="8" fill="#00ff88">
+<animate attributeName="r" values="6;12;6" dur="2s" repeatCount="indefinite"/>
+</circle>
+<line x1="60" y1="210" x2="1140" y2="210" stroke="#00F5FF" stroke-width="2">
+<animate attributeName="x2" values="60;1140" dur="2s" repeatCount="indefinite"/>
+</line>
+</svg>
